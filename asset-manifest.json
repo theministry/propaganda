@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/propaganda/static/js/main.68432370.chunk.js",
+    "main.js.map": "/propaganda/static/js/main.68432370.chunk.js.map",
+    "runtime-main.js": "/propaganda/static/js/runtime-main.42408079.js",
+    "runtime-main.js.map": "/propaganda/static/js/runtime-main.42408079.js.map",
+    "static/js/2.cb0f4100.chunk.js": "/propaganda/static/js/2.cb0f4100.chunk.js",
+    "static/js/2.cb0f4100.chunk.js.map": "/propaganda/static/js/2.cb0f4100.chunk.js.map",
+    "index.html": "/propaganda/index.html",
+    "precache-manifest.b31284d149cdc2bf069e19258040bec9.js": "/propaganda/precache-manifest.b31284d149cdc2bf069e19258040bec9.js",
+    "service-worker.js": "/propaganda/service-worker.js",
+    "static/media/colorbar.svg": "/propaganda/static/media/colorbar.db6a66f7.svg"
+  }
+}
