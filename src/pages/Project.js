@@ -25,7 +25,7 @@ const Project = ({ match }) => {
     return (
         <Layout nav reversed container>
             <Back to='/projects' />
-            <Image src={'/img/'+projectInfo.slug+'.jpg'} display='inline-block' width='100%' maxWidth='300px' my={3} />
+            <Image src={`${process.env.PUBLIC_URL}/img/${projectInfo.slug}.jpg`} display='inline-block' width='100%' maxWidth='300px' my={3} />
             <Title>{ projectInfo.name }</Title>
             {projectInfo.description.map(paragraph => ( <Paragraph> { paragraph } </Paragraph> ))}
             <Box mb={4}>

@@ -59,7 +59,7 @@ export default class Visualisation extends Component {
         const config = {
             numStars: 1000,
             speed: 10,
-            texturePath: '/img/star.png',
+            texturePath: `${process.env.PUBLIC_URL}/img/star.png`,
             stretch: 5,
         }
 
@@ -95,8 +95,8 @@ export default class Visualisation extends Component {
     }
 
     showTitles() {
-        const moonTexture = new PIXI.Texture.from('/img/moononly.png')
-        const logoTexture = new PIXI.Texture.from('/img/logo.png')
+        const moonTexture = new PIXI.Texture.from(`${process.env.PUBLIC_URL}/img/moononly.png`)
+        const logoTexture = new PIXI.Texture.from(`${process.env.PUBLIC_URL}/img/logo.png`)
         const moon = new PIXI.Sprite(moonTexture)
         const logo = new PIXI.Sprite(logoTexture)
 

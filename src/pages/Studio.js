@@ -13,7 +13,7 @@ const Studio = () => {
         <Layout reversed nav container>
             <Title>About the Ministry:</Title>
             {texts.vision.map(paragraph => ( <Paragraph> { paragraph } </Paragraph> ))}
-            <Image src='/img/sonosignitia.jpg' display='inline-block' width='100%' maxWidth='300px' my={3} />
+            <Image src={`${process.env.PUBLIC_URL}/img/sonosignitia.jpg`} display='inline-block' width='100%' maxWidth='300px' my={3} />
             <Subtitle>Services</Subtitle>
             <Box as='ul' mb={4}>
                 {texts.services.map(service => (

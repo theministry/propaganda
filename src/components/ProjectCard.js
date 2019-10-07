@@ -17,7 +17,7 @@ const ProjectCard = props => {
                     textDecoration:'none'
                 }}
             >
-                <Image src={ '/img/'+project.slug+'.jpg'} />
+                <Image src={`${process.env.PUBLIC_URL}/img/${project.slug}.jpg`} />
                 <CardTitle>
                     { project.name }
                 </CardTitle>
