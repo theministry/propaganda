@@ -1,0 +1,258 @@
+[
+    {
+        "name": "Sonos Ignitia",
+        "slug": "sonosignitia",
+        "year": 2017,
+        "clients": [],
+        "collaborators": [
+            {
+                "name": "Studio Ricky van Broekhoven",
+                "url": "http://studiovanbroekhoven.com"
+            },
+            {
+                "name": "Almar Ontwerpt",
+                "url": "http://almarontwerpt.nl"
+            }
+        ],
+        "powered": [
+            {
+                "name": "Temporary Art Center",
+                "url": "http://tac.nu"
+            },
+            {
+                "name": "Glow Eindhoven",
+                "url": "http://gloweindhoven.nl"
+            }
+        ],
+        "description": [
+            "Sonos Ignitia stands for ‘the land of sound and fire’. A living landscape of flame that visibly and audibly undulates around you. It takes you on a journey through the heart of a composition of sound, light and heat. The feelings it evokes alternate between meditative and compelling, digital and analogue, technical and poetic, intimate and bombastic.",
+            "Sound controls the flames, bringing them to life and making them dance. Like a landscape inhabited by a composition of light, sound and heat.",
+            "For this project, the Ministry of Extraordinary Affairs was responsible for the conceptual design, project management, and technical realisation."
+        ],
+        "tags": [
+            "Interactive Installation",
+            "Creative Development",
+            "Project Management",
+            "Connected System",
+            "Conceptual Design"
+        ],
+        "links": [
+            "http://sonosignitia.com"
+        ]
+    },
+    {
+        "name": "Tullep",
+        "slug": "tullep",
+        "year": 2019,
+        "clients": [
+            {
+                "name": "Provincie Noord Holland",
+                "url": "http://noord-holland.nl"
+            }
+        ],
+        "collaborators": [
+            {
+                "name": "PicusLED",
+                "url": "http://picusled.com"
+            }
+        ],
+        "powered": [
+            {
+                "name": "Bek en Verburg",
+                "url": "http://bek-verburg.nl"
+            }
+        ],
+        "description": [
+            "We're growing tulips out of marine trash. For the province of Noord Holland, The Ministry of Extraordinary Affairs created a promotional gift based on the principles of the circular economy. It consists of a series of unique table lamps that combines two of the most iconic Dutch elements, tulips and the sea. A green keepsake for the Provinces international relations."
+        ],
+        "tags": [
+            "Product Design",
+            "Circular Economy",
+            "Conceptual Design",
+            "Lighting Design"
+        ],
+        "links": [
+            "http://tullep.nl"
+        ]
+    },
+    {
+        "name": "Smart Locks",
+        "slug": "smartlocks",
+        "year": 2019,
+        "clients": [
+            {
+                "name": "GuestCompass",
+                "url": "https://guestcompass.nl"
+            }
+        ],
+        "collaborators": [
+
+        ],
+        "powered": [
+        ],
+        "description": [
+            "Access management is not easy, especially when your tenants are short-stay students. Before GuestCompass, their clients had to deal with missed checkouts and lost keys on a daily basis. Their app makes the life of both owner and tenants way easier trough integrating communication and acces controls.",
+            "The Ministry of Extraordinary Affaris developed the system connecting the GuestCompass app to the door locks, in a way that is very safe, extremely reliable and cost-friendly. We created prototypes using different technologies (WiFi- and LoRa-based), tested them in a real world scenario, and developed the final products based on our findings."
+        ],
+        "tags": [
+            "Product Development",
+            "Interactive Products",
+            "Connected Systems"
+        ],
+        "links": [
+
+        ]
+    },
+    {
+        "name": "LEDbits",
+        "slug": "ledbits",
+        "year": 2016,
+        "clients": [
+        ],
+        "collaborators": [
+            {
+                "name": "Studio Philip Ross",
+                "url": "http://studiophilipross.nl"
+            },
+            {
+                "name": "PicusLED",
+                "url": "http://picusled.com"
+            }
+        ],
+        "powered": [
+            {
+                "name": "Metropoolregio Eindhoven",
+                "url": "https://metropoolregioeindhoven.nl"
+            }
+        ],
+        "description": [
+            "LEDs have many advantages over traditional lightbulbs, yet designing luminaires using High Power LEDs is no easy feat. Together with Studio Philip Ross and PicusLED, The Ministry of Extraordinary Affairs created a toolkit that makes designing with LEDs as easy as choosing a light color, shaping the beam and hooking up the controls. This plug-and-play system puts the power in the hands of the designer, no technical knowledge required. No need for expensive engineering or old-school retrofit lightbulbs.",
+            "The Ministry of Extraordinary Affairs was responsible for the conceptual design, presentation and engineering of the control modules."
+        ],
+        "tags": [
+            "Product Development",
+            "Conceptual Design",
+            "Interactive Products",
+            "Lighting Design"
+        ],
+        "links": [
+            "http://ledbits.eu"
+        ]
+    },
+    {
+        "name": "Eclipse",
+        "slug": "eclipse",
+        "year": 2018,
+        "clients": [
+        ],
+        "collaborators": [
+        ],
+        "powered": [
+            {
+                "name": "Metropoolregio Eindhoven",
+                "url": "https://metropoolregioeindhoven.nl"
+            }
+        ],
+        "description": [
+            "[ecplipse desciption]"
+        ],
+        "tags": [
+            "Product Development",
+            "Interactive Products",
+            "Lighting Design"
+        ],
+        "links": [
+        ]
+    },
+    {
+        "name": "anTUEnna",
+        "slug": "antuenna",
+        "year": 2016,
+        "clients": [
+            {
+                "name": "Har Hollands Lichtarchitect",
+                "url": "http://hollands.info"
+            }
+        ],
+        "collaborators": [
+            {
+                "name": "rot8ion",
+                "url": "https://rot8ion.com"
+            }
+        ],
+        "powered": [
+            {
+                "name": "Eindhoven University of Technology",
+                "url": "https://tue.nl"
+            },
+            {
+                "name": "Glow Eindhvoen",
+                "url": "https://gloweindhoven.nl"
+            }
+        ],
+        "description": [
+            "Har Hollands transformed the old chimney on the Eindhoven University of Technology into a huge LED matrix display for science-related animations. During the Glow 2016 festival, it played animations of DNA sequencing, networking, wind and water simulations and more. The Ministry of Extraordinary Affairs created a crowd-based audio system to play the audio from the animations. Visitors could visit a website on their phone, and the audio would start playing, perfectly in sync with both the imagery and the phones of others on location."
+        ],
+        "tags": [
+            "Conceptual Design",
+            "Interactive Media",
+            "Connected System"
+        ],
+        "links": [
+            "http://antuenna.nl"
+        ]
+    },
+    {
+        "name": "Beach Ball 2.0",
+        "slug": "beachball",
+        "year": 2018,
+        "clients": [
+            {
+                "name": "[undisclosed]"
+            }
+        ],
+        "collaborators": [
+            {
+                "name": "Erik Groot Design",
+                "url": "http://www.erikgrootdesign.com"
+            }
+        ],
+        "powered": [
+        ],
+        "description": [
+            "Beach Ball is a fun game to play at the beach, yet has not seen much innovation in the past 100 years. [undisclosed client] aims to bring new innovation by creating smart rackets that keeps international high scores, and different single- and multiplayer games to the beach. In collaboration with B-Engineering, the Ministry of Extraordinary Affairs created a working prototype of this idea, that [undisclosed client] could use to validate their claims and bring potential investors on board."
+        ],
+        "tags": [
+            "Interactive Product",
+            "Prototyping"
+        ],
+        "links": [
+        ]
+    },
+    {
+        "name": "Various Prototyping & Art Installations",
+        "slug": "various",
+        "year": "various",
+        "clients": [
+            {
+                "name": "Various Clients"
+            }
+        ],
+        "collaborators": [
+            {
+                "name": "Various Collaborators"
+            }
+        ],
+        "powered": [
+        ],
+        "description": [
+            "The Ministry of Extraordinary Affairs created various interactive prototypes for clients with great ideas but without technical know-how. We created working prototypes for idea validation, interactive products and technology demonstrators. We created interactive elements for various art installations. We love working with designers and artists, and can devise solutions for all sorts of projects and budgets."
+        ],
+        "tags": [
+            "Interactive Installations",
+            "Prototyping"
+        ],
+        "links": [
+        ]
+    }
+]
