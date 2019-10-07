@@ -2,6 +2,7 @@
   "name": "ministry-propaganda",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://theministry.github.io/propaganda",
   "dependencies": {
     "@inlet/react-pixi": "^1.1.2",
     "@rebass/forms": "^4.0.6",
@@ -20,6 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
