@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/propaganda/static/js/main.a28fa8ff.chunk.js",
-    "main.js.map": "/propaganda/static/js/main.a28fa8ff.chunk.js.map",
+    "main.js": "/propaganda/static/js/main.46dbb4f5.chunk.js",
+    "main.js.map": "/propaganda/static/js/main.46dbb4f5.chunk.js.map",
     "runtime-main.js": "/propaganda/static/js/runtime-main.42408079.js",
     "runtime-main.js.map": "/propaganda/static/js/runtime-main.42408079.js.map",
     "static/js/2.cb0f4100.chunk.js": "/propaganda/static/js/2.cb0f4100.chunk.js",
     "static/js/2.cb0f4100.chunk.js.map": "/propaganda/static/js/2.cb0f4100.chunk.js.map",
     "index.html": "/propaganda/index.html",
-    "precache-manifest.f8a4dbc869c7b93cb1078bfb0133e0f6.js": "/propaganda/precache-manifest.f8a4dbc869c7b93cb1078bfb0133e0f6.js",
+    "precache-manifest.a469ef33a315b72630d26c4074bcac36.js": "/propaganda/precache-manifest.a469ef33a315b72630d26c4074bcac36.js",
     "service-worker.js": "/propaganda/service-worker.js",
     "static/media/colorbar.svg": "/propaganda/static/media/colorbar.db6a66f7.svg"
   }
